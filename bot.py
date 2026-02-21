@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # ================= НАСТРОЙКИ =================
-TOKEN = "8501484210:AAHLackjXS5JboBTz8VEouI-koZbV6uDQuw"
+TOKEN = "8587527985:AAFprRVnYX99x74Q_Ud9F9mQUT5jULO_3pM"
 ADMIN_ID = 7939301679  # ← твой chat_id (число)
 # =============================================
 
